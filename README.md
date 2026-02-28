@@ -191,7 +191,7 @@ The dataset has complete information for ratings and titles, but box office reve
 Educational Project - Final Exam  
 Created: February 2026
 
-## 👤 Author
+## 👤 Author - Ani
 
 Created as part of Data Analytics Coursework
 
